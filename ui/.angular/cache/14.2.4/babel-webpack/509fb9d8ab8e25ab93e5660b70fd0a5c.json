@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Player {\n  constructor(playerID, nameLast, nameFirst) {\n    this.playerID = playerID;\n    this.nameLast = nameLast;\n    this.nameFirst = nameFirst;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
